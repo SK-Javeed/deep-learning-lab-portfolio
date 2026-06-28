@@ -168,7 +168,7 @@ After completing these laboratory experiments, the following concepts were explo
 
 B.Tech Computer Science and Engineering (Artificial Intelligence)
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/SK-Javeed
 
 ---
 
